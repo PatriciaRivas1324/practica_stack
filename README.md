@@ -1,1 +1,1 @@
-# practica_stack
+# Proyecto Stack Tecnológico con Docker, Node.js y GitHub Actions
